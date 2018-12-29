@@ -2,6 +2,7 @@ import java.io.File;
 
 /**
  * Created by sicarii-13 on 29/12/2018.
+ * Don't overcomment stuff.
  */
 public class FileHelper {
 
