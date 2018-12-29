@@ -9,6 +9,8 @@ import java.util.regex.Pattern;
 
 /**
  * Created by sicarii-13 on 29/12/2018
+ *(Created for the ODJ project)
+ * You need the java runtim
  */
 public class Assembler {
     public static HashMap<String,Integer> cMap = new HashMap<String, Integer>();
